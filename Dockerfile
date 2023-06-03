@@ -14,4 +14,3 @@ FROM tomcat:8.5.43-jdk8
 
 COPY . .
 
-CMD [ "node", "index.jsp" ]
